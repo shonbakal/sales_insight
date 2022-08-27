@@ -1,4 +1,4 @@
-# Insight_sales
+# sales_insight
 **insight sales data analysis project using MySQL and Tableau**
 
 Based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build BI dashboard that can give him real time sales insights. 
